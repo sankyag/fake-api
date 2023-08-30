@@ -1,0 +1,40 @@
+{
+	"event": {
+		"title": "International Band Music Concert",
+		"cover": "https://s3-alpha-sig.figma.com/img/eb2f/1df4/8794d36030d9c5d830e431721e08ddd7?Expires=1694390400&Signature=hfCylgpCW3rHQgr0c--dyyRs8MtEdD8buXs~RbZdW6Y~SlERwmEeVN6SVuwOCnCHnmmv7KXDkVW1-igT-OMKL0ACsU6tIKMz5ehz3qbwkmv~Msw8ZG40d09KW8OENVgiqJ~W-UeL-CJxkJz89fOS1myPChl06JfgxpxxNlX5VWVhaLk7RoCkm3RBUq8VhdAiGk-YJwQ-b3RSWuYDecoPHCMM026b4sl6rtoZdWCqV9y1GQ0tmL-cXHlQppiSDnE67NeOto2PbOp76hMeeenOEj5OsUVCr2ywJk9uBMDFSpIuvsD-yuZdo42jGQVaQQuYIGTo48bVq6a1A1mFmtd~5Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+		"address": "36 Guild Street London, UK",
+		"place": "Gala Convention Center",
+		"startsAt": "2023-11-28T14:30:00Z",
+		"endsAt": "2023-11-28T18:45:00Z",
+		"description": "Harmonious garden festival: Immerse yourself in nature's embrace. Enjoy live music, exquisite cuisine, and vibrant art in a captivating botanical paradise.",
+		"owner": {
+			"firstName": "Victoria",
+			"lastName": "Bekhem",
+			"avatar": "https://static-bebeautiful-in.unileverservices.com/Flawless-skin-basics.jpg"
+		}
+	},
+	"events": [{
+			"id": 1,
+			"title": "Chess",
+			"longitude": 30.63019420382104,
+			"latitude": 50.47769116483046
+		},
+		{
+			"id": 2,
+			"title": "Football",
+			"longitude": 30.407721078201202,
+			"latitude": 50.515255347810296
+		},
+		{
+			"id": 3,
+			"title": "Mafia",
+			"longitude": 30.43930676887562,
+			"latitude": 50.40422377705388
+		}
+	],
+	"user": {
+		"firstName": "Alexander",
+		"lastName": "Colleen",
+		"avatar": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?cs=srgb&dl=pexels-stefan-stefancik-91227.jpg&fm=jpg"
+	}
+}
